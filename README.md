@@ -8,7 +8,7 @@ Press Statrt in the Home Screen:
 
 ![](Images/Statrt_state.png)
 
-Use the right and left arrows to avoid the obstacles:
+Use the right and left arrows to avoid the obstacles, TAKE CARE as you move forward the speed of the player and the objects increase:
 
 ![](Images/In_Game.png)
 
